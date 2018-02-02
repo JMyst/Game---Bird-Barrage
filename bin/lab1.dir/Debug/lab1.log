@@ -1,0 +1,13 @@
+﻿  26 File(s) copied
+  26 File(s) copied
+  main.cpp
+c:\users\jozef\desktop\gpassignment\src\JM_Enemy.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jozef\desktop\gpassignment\src\JM_Pickup.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jozef\Desktop\GPAssignment\src\main.cpp(42): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+C:\Users\jozef\Desktop\GPAssignment\src\main.cpp(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jozef\Desktop\GPAssignment\src\main.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jozef\Desktop\GPAssignment\src\main.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jozef\Desktop\GPAssignment\src\main.cpp(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab1.vcxproj -> C:\Users\jozef\Desktop\GPAssignment\bin\bin\lab1.exe
+  lab1.vcxproj -> C:/Users/jozef/Desktop/GPAssignment/bin/bin/lab1.pdb (Full PDB)

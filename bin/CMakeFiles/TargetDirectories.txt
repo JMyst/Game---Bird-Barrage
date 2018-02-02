@@ -1,0 +1,3 @@
+C:/Users/jozef/Desktop/GPAssignment/bin/CMakeFiles/lab1.dir
+C:/Users/jozef/Desktop/GPAssignment/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/jozef/Desktop/GPAssignment/bin/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,70 @@
+﻿  21 File(s) copied
+  21 File(s) copied
+  JM_Enemy.cpp
+c:\users\jozef\desktop\gpassignment\src\JM_Enemy.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\src\JM_Enemy.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\JM_Enemy.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\JM_Enemy.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\JM_Enemy.cpp(45): warning C4244: '=': conversion from 'float' to 'Uint32', possible loss of data
+..\src\JM_Enemy.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\JM_Enemy.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\JM_Enemy.cpp(70): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+..\src\JM_Enemy.cpp(78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Enemy.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Enemy.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Enemy.cpp(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Enemy.cpp(150): warning C4244: '=': conversion from 'float' to 'Uint32', possible loss of data
+..\src\JM_Enemy.cpp(165): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Enemy.cpp(166): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Enemy.cpp(167): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Enemy.cpp(168): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  JM_Menu.cpp
+..\src\JM_Menu.cpp(18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  JM_Pickup.cpp
+c:\users\jozef\desktop\gpassignment\src\JM_Enemy.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jozef\desktop\gpassignment\src\JM_Pickup.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\src\JM_Pickup.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\JM_Pickup.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Pickup.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Pickup.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Pickup.cpp(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Pickup.cpp(60): warning C4244: '=': conversion from 'float' to 'Uint32', possible loss of data
+..\src\JM_Pickup.cpp(77): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+..\src\JM_Pickup.cpp(78): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+..\src\JM_Pickup.cpp(90): warning C4244: '=': conversion from 'float' to 'Uint32', possible loss of data
+..\src\JM_Pickup.cpp(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Pickup.cpp(98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Pickup.cpp(99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Pickup.cpp(100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  JM_Score.cpp
+  JM_Square.cpp
+..\src\JM_Square.cpp(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Square.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Square.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Square.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Square.cpp(39): warning C4305: '=': truncation from 'double' to 'float'
+..\src\JM_Square.cpp(45): warning C4305: '=': truncation from 'double' to 'float'
+..\src\JM_Square.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\JM_Square.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\JM_Square.cpp(131): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Square.cpp(132): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Square.cpp(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\JM_Square.cpp(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ParticleEffects.cpp
+..\src\ParticleEffects.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+..\src\ParticleEffects.cpp(55): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+..\src\ParticleEffects.cpp(57): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ParticleSystem.cpp
+c:\users\jozef\desktop\gpassignment\src\JM_Enemy.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\src\ParticleSystem.cpp(19): warning C4552: '-': operator has no effect; expected operator with side-effect
+..\src\ParticleSystem.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+..\src\ParticleSystem.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+..\src\ParticleSystem.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\users\jozef\desktop\gpassignment\src\JM_Enemy.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jozef\desktop\gpassignment\src\JM_Pickup.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jozef\Desktop\GPAssignment\src\main.cpp(42): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Generating Code...
+     Creating library C:/Users/jozef/Desktop/GPAssignment/bin/lib/MinSizeRel/lab1.lib and object C:/Users/jozef/Desktop/GPAssignment/bin/lib/MinSizeRel/lab1.exp
+  lab1.vcxproj -> C:\Users\jozef\Desktop\GPAssignment\bin\bin\MinSizeRel\lab1.exe
